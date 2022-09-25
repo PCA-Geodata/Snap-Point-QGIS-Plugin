@@ -1,6 +1,6 @@
 # Snap Point QGIS Plugin
 
-![image](https://github.com/ValPinnaSardinia/Replace-Geometry-Plugin/blob/main/ReplaceGeometry_large.png)
+![image](https://github.com/PCA-Geodata/Snap-Point-QGIS-Plugin/blob/main/snap_point/icons/snap_point_icon.png)
 
 
 
