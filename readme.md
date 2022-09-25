@@ -1,8 +1,6 @@
 # Snap Point QGIS Plugin
 
-![image](https://github.com/PCA-Geodata/Snap-Point-QGIS-Plugin/blob/main/snap_point/icons/snap_point_icon.png)
-
-
+<img src="snap_point/icons/snap_point_icon.png" width="125" height="125"/>
 
 Version 1.01
 
