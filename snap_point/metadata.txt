@@ -6,7 +6,7 @@
 name=Snap Point
 qgisMinimumVersion=3.0
 description=This plugin snaps a selected point to the closest point of a feature from a defined layer
-version=1.01
+version=1.02
 author=Valerio Pinna
 email=vpinna@pre-construct.com
 
